@@ -142,15 +142,6 @@ Simulación industrial que conecta Arduino, Proteus y OpenGL mediante comunicaci
 
 ---
 
-## 📈 Actividad en GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OscarFierro22&show_icons=true&include_all_commits=true&count_private=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFierro22&layout=compact">
-</p>
-
----
-
 ## 📫 Contacto
 
 - LinkedIn: [Oscar Fierro Aules](https://www.linkedin.com/in/oscar-fierro-aules)
