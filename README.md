@@ -1,155 +1,145 @@
-# 👋 Hola, soy Oscar Fierro
+<!-- README del perfil de GitHub: OscarFierro22 -->
 
-<p align="center">
-  <strong>Estudiante de Ingeniería de Software en la Escuela Politécnica Nacional</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  Desarrollo proyectos de software que integran computación gráfica, aplicaciones móviles, backend, algoritmos y sistemas físicos.
-</p>
+# 👋 ¡Hola! Soy Oscar Fierro
 
-<p align="center">
+### 🎓 Estudiante de Ingeniería de Software
+**Escuela Politécnica Nacional · Ecuador**
+
+Desarrollo software, exploro soluciones de infraestructura y sigo aprendiendo sobre **DevOps**.
+
+**💼 En búsqueda de pasantías en Ingeniería de Software, desarrollo e infraestructura TI.**
+
+<p>
+  <a href="https://github.com/OscarFierro22/portfolio-web">
+    <img alt="Mi portafolio" src="https://img.shields.io/badge/Portafolio_web-Ver_proyecto-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/oscar-fierro-aules">
-    <img src="https://img.shields.io/badge/LinkedIn-Oscar_Fierro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:oscarfierro2222@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Correo electrónico" src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería de Software** en la **Escuela Politécnica Nacional, Ecuador**.
+Soy estudiante de **Ingeniería de Software en la Escuela Politécnica Nacional**. Me gusta desarrollar soluciones que conecten la programación con problemas reales: desde aplicaciones web y APIs hasta simuladores 3D y sistemas integrados con hardware.
 
-Me interesa desarrollar soluciones que combinen:
-
-- Computación gráfica y simulación 3D.
-- Desarrollo móvil y backend.
-- Algoritmos y estructuras de datos.
-- Automatización e integración hardware-software.
-- Arquitectura y diseño de software.
-
-Actualmente estoy fortaleciendo mis conocimientos en desarrollo de sistemas completos, comunicación TCP/IP, aplicaciones móviles y buenas prácticas de ingeniería de software.
+- 💻 **Desarrollo:** conocimientos en HTML, CSS, JavaScript, Python, Java, C++, SQL y APIs REST.
+- 🐳 **Infraestructura:** uso básico de Docker (imágenes, contenedores y redes), Linux, Git y fundamentos de redes.
+- 🔐 **Seguridad informática:** fundamentos de phishing, ingeniería social, malware, ataques DoS/DDoS y protección de la información.
+- 🧩 **Experiencia práctica:** soporte técnico, mantenimiento informático y diagnóstico de conectividad en un entorno académico.
+- 🎯 **Objetivo profesional:** adquirir experiencia mediante pasantías y, a largo plazo, profundizar en automatización, infraestructura y prácticas DevOps.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🌐 Portafolio web personal
+
+Mi sitio personal para presentar mis habilidades, proyectos académicos y medios de contacto. Construido con **HTML, CSS y JavaScript**, sin frameworks, e incluye diseño adaptable, cambio de tema y navegación por secciones.
+
+<p align="center">
+  <a href="https://github.com/OscarFierro22/portfolio-web">
+    <img width="80%" alt="Captura de la página de inicio del portafolio web" src="https://raw.githubusercontent.com/OscarFierro22/portfolio-web/main/docs/capturas/inicio.png">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/OscarFierro22/portfolio-web">
+    <img alt="Ver repositorio del portafolio" src="https://img.shields.io/badge/Explorar_portafolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ### 🚗 Smart Parking EPN
 
-Sistema inteligente de estacionamiento que integra simulación 3D, aplicación móvil y backend.
+Sistema de estacionamiento inteligente que integra una **simulación 3D**, una **aplicación móvil** y un **backend con API REST**.
 
-**Tecnologías:**
+**Tecnologías:** C++, OpenGL, Flutter, FastAPI, Python y algoritmo de Dijkstra.
 
-`C++` `OpenGL` `Flutter` `FastAPI` `Python` `Dijkstra`
+- Visualización de un parqueadero de varios niveles y navegación en 3D.
+- Detección de colisiones, visualización de espacios y control de vehículos.
+- Cálculo de rutas mediante Dijkstra.
+- Integración de componentes mediante arquitectura cliente-servidor.
 
-**Características:**
+**🔗 [Explorar Smart Parking EPN](https://github.com/OscarFierro22/Smart-Parking-EPN)**
 
-- Parqueadero 3D de varios niveles.
-- Vehículo controlable y múltiples cámaras.
-- Detección de colisiones.
-- Cálculo de rutas con Dijkstra.
-- Gestión de espacios disponibles, ocupados y reservados.
-- Integración entre OpenGL, FastAPI y Flutter.
+### 🏭 Cinta Transportadora — Industria 4.0
 
-<p align="center">
-  <a href="https://github.com/OscarFierro22/Smart-Parking-EPN">
-    <img src="https://img.shields.io/badge/Ver_proyecto-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+Simulación industrial que integra **C++, OpenGL, Arduino y Proteus** a través de comunicación serial.
 
-</td>
+- Control de velocidad y modos de funcionamiento.
+- Conteo de objetos y supervisión del proceso.
+- Detección de atascos, alertas y parada de emergencia.
+- Visualización gráfica del estado del sistema.
 
-<td width="50%" valign="top">
-
-### 🏭 Cinta Transportadora 4.0
-
-Simulación industrial que conecta Arduino, Proteus y OpenGL mediante comunicación serial.
-
-**Tecnologías:**
-
-`C++` `OpenGL` `Arduino` `Proteus` `Serial`
-
-**Características:**
-
-- Control de velocidad mediante potenciómetro.
-- Conteo automático de cajas.
-- Monitor de producción.
-- Paro de emergencia.
-- Simulación de atascos.
-- Integración electrónica y gráfica en tiempo real.
-
-<p align="center">
-  <a href="https://github.com/OscarFierro22/Cinta-Transportadora-Industria-4.0">
-    <img src="https://img.shields.io/badge/Ver_proyecto-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
+**🔗 [Explorar Cinta Transportadora 4.0](https://github.com/OscarFierro22/Cinta-Transportadora-Industria-4.0)**
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-### Lenguajes
+### Lenguajes y desarrollo web
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### Desarrollo
+### Frameworks, bibliotecas y proyectos
 
 <p>
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
-### Herramientas
+### Bases de datos, sistemas y herramientas
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img alt="Docker: conocimientos básicos" src="https://img.shields.io/badge/Docker-Fundamentos-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
+
+> **Áreas que sigo fortaleciendo:** despliegue de aplicaciones, automatización, infraestructura TI, seguridad informática y buenas prácticas de desarrollo.
 
 ---
 
-## 📚 Áreas de interés
+## 📚 Intereses profesionales
 
-- Ingeniería y arquitectura de software.
-- Computación gráfica y simulación 3D.
-- Desarrollo móvil y backend.
-- Algoritmos y estructuras de datos.
-- Automatización e Industria 4.0.
-- Sistemas distribuidos y comunicación TCP/IP.
-- Inteligencia artificial.
+**DevOps y automatización** · **Desarrollo backend y web** · **Arquitectura de software** · **Bases de datos** · **Redes e infraestructura** · **Ciberseguridad** · **Computación gráfica**
 
 ---
 
 ## 📫 Contacto
 
-- LinkedIn: [Oscar Fierro Aules](https://www.linkedin.com/in/oscar-fierro-aules)
-- Correo: [oscarfierro2222@gmail.com](mailto:oscarfierro2222@gmail.com)
-- GitHub: [OscarFierro22](https://github.com/OscarFierro22)
+- 💼 **LinkedIn:** [Oscar Fierro Aules](https://www.linkedin.com/in/oscar-fierro-aules)
+- 📧 **Correo:** [oscarfierro2222@gmail.com](mailto:oscarfierro2222@gmail.com)
+- 🌐 **Portafolio:** [portfolio-web](https://github.com/OscarFierro22/portfolio-web)
+
+<div align="center">
 
 ---
 
-<p align="center">
-  <em>Construyendo soluciones de software mediante proyectos académicos y personales.</em>
-</p>
+*Aprendiendo, construyendo proyectos y buscando oportunidades para crecer profesionalmente.*
+
+</div>
