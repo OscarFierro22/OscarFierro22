@@ -7,9 +7,9 @@
 ### 🎓 Estudiante de Ingeniería de Software
 **Escuela Politécnica Nacional · Ecuador**
 
-Desarrollo software, exploro soluciones de infraestructura y sigo aprendiendo sobre **DevOps**.
+Construyo aplicaciones y proyectos de software, desde **desarrollo web y backend** hasta **simulación 3D e integración de sistemas**. También exploro **Docker, Linux y redes** con el objetivo de especializarme en **DevOps**.
 
-**💼 En búsqueda de pasantías en Ingeniería de Software, desarrollo e infraestructura TI.**
+**💼 Busco pasantías en Ingeniería de Software, desarrollo web/backend o infraestructura TI.**
 
 <p>
   <a href="https://github.com/OscarFierro22/portfolio-web">
@@ -85,6 +85,8 @@ Simulación industrial que integra **C++, OpenGL, Arduino y Proteus** a través 
 
 ## 🛠️ Tecnologías y herramientas
 
+Estas son tecnologías que he utilizado en proyectos académicos o estudiado. **Docker y ciberseguridad corresponden a conocimientos fundamentales**, no a certificaciones ni experiencia avanzada.
+
 ### Lenguajes y desarrollo web
 
 <p>
@@ -120,7 +122,15 @@ Simulación industrial que integra **C++, OpenGL, Arduino y Proteus** a través 
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
-> **Áreas que sigo fortaleciendo:** despliegue de aplicaciones, automatización, infraestructura TI, seguridad informática y buenas prácticas de desarrollo.
+> **Conocimientos de ciberseguridad:** conceptos de phishing e ingeniería social, malware, DoS/DDoS y principios de confidencialidad, integridad y disponibilidad.
+>
+> **Áreas que sigo fortaleciendo:** despliegue de aplicaciones, automatización, infraestructura TI y buenas prácticas de desarrollo.
+
+---
+
+## 🎯 ¿Qué busco aprender en una pasantía?
+
+Me interesa participar en equipos donde pueda **aportar con programación y resolución de problemas** mientras aprendo sobre desarrollo de servicios, bases de datos, despliegue de aplicaciones, monitoreo e infraestructura. Mi interés a largo plazo es **DevOps**, pero también estoy abierto a pasantías de desarrollo de software y sistemas.
 
 ---
 
